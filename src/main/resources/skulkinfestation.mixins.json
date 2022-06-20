@@ -1,12 +1,14 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "net.izofar.skulkinfestation.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "WardenTargetMixin",
+    "DeepDarkSpawnSettingsMixin",
+    "SkulkedFertilizationMixin"
   ],
   "injectors": {
     "defaultRequire": 1
