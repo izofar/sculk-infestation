@@ -1,9 +1,9 @@
-package net.izofar.skulkinfestation;
+package net.izofar.sculkinfestation;
 
 import net.fabricmc.api.ModInitializer;
-import net.izofar.skulkinfestation.init.ModEntityTypes;
-import net.izofar.skulkinfestation.init.ModItems;
-import net.izofar.skulkinfestation.init.ModModelLayers;
+import net.izofar.sculkinfestation.init.ModEntityTypes;
+import net.izofar.sculkinfestation.init.ModItems;
+import net.izofar.sculkinfestation.init.ModModelLayers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

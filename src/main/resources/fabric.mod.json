@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "skulk-infestation",
+  "id": "sculkinfestation",
   "version": "${version}",
 
-  "name": "Skulk Infestation",
+  "name": "Sculk Infestation",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "izofar"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/izofar/sculk-infestation"
   },
 
   "license": "MIT",
-  "icon": "assets/skulkinfestation/icon.png",
+  "icon": "assets/sculkinfestation/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.izofar.skulkinfestation.SkulkInfestation"
+      "net.izofar.sculkinfestation.SculkInfestation"
     ]
   },
   "mixins": [
-    "skulkinfestation.mixins.json"
+    "sculkinfestation.mixins.json"
   ],
 
   "depends": {

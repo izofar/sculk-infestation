@@ -1,8 +1,8 @@
-package net.izofar.skulkinfestation.client.renderer.feature;
+package net.izofar.sculkinfestation.client.renderer.feature;
 
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
-import net.izofar.skulkinfestation.client.model.PartedModel;
+import net.izofar.sculkinfestation.client.model.PartedModel;
 import net.minecraft.client.model.ModelPart;
 import net.minecraft.client.render.RenderLayer;
 import net.minecraft.client.render.VertexConsumer;

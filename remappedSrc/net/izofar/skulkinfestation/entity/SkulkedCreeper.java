@@ -1,4 +1,4 @@
-package net.izofar.skulkinfestation.entity;
+package net.izofar.sculkinfestation.entity;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.attribute.DefaultAttributeContainer;

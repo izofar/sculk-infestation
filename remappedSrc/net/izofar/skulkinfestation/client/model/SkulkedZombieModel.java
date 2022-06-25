@@ -1,7 +1,7 @@
-package net.izofar.skulkinfestation.client.model;
+package net.izofar.sculkinfestation.client.model;
 
 import com.google.common.collect.ImmutableList;
-import net.izofar.skulkinfestation.entity.SkulkedZombie;
+import net.izofar.sculkinfestation.entity.SkulkedZombie;
 import net.minecraft.client.model.*;
 import net.minecraft.client.render.entity.model.AbstractZombieModel;
 import net.minecraft.client.render.entity.model.EntityModelPartNames;

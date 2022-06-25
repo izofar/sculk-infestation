@@ -1,11 +1,11 @@
-package net.izofar.skulkinfestation.init;
+package net.izofar.sculkinfestation.init;
 
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricDefaultAttributeRegistry;
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder;
-import net.izofar.skulkinfestation.SkulkInfestation;
-import net.izofar.skulkinfestation.entity.SkulkedCreeper;
-import net.izofar.skulkinfestation.entity.SkulkedSkeleton;
-import net.izofar.skulkinfestation.entity.SkulkedZombie;
+import net.izofar.sculkinfestation.SkulkInfestation;
+import net.izofar.sculkinfestation.entity.SkulkedCreeper;
+import net.izofar.sculkinfestation.entity.SkulkedSkeleton;
+import net.izofar.sculkinfestation.entity.SkulkedZombie;
 import net.minecraft.entity.EntityDimensions;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.SpawnGroup;

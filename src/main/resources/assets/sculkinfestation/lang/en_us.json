@@ -1,0 +1,11 @@
+{
+  "item.sculkinfestation.sculked_flesh": "Sculked Flesh",
+  "item.sculkinfestation.sculked_bone": "Sculked Bone",
+  "item.sculkinfestation.sculked_bone_meal": "Sculked Bone Meal",
+  "item.sculkinfestation.sculked_gunpowder": "Sculked Gunpowder",
+  "item.sculkinfestation.sculk_tnt": "Sculk TnT",
+
+  "entity.sculkinfestation.sculked_zombie": "Sculked Zombie",
+  "entity.sculkinfestation.sculked_skeleton": "Sculked Skeleton",
+  "entity.sculkinfestation.sculked_creeper": "Sculked Creeper"
+}

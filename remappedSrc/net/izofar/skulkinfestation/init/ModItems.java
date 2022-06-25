@@ -1,7 +1,7 @@
-package net.izofar.skulkinfestation.init;
+package net.izofar.sculkinfestation.init;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.izofar.skulkinfestation.SkulkInfestation;
+import net.izofar.sculkinfestation.SkulkInfestation;
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
 import net.minecraft.item.BoneMealItem;

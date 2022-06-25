@@ -1,14 +1,14 @@
-package net.izofar.skulkinfestation.init;
+package net.izofar.sculkinfestation.init;
 
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityRendererRegistry;
-import net.izofar.skulkinfestation.SkulkInfestation;
-import net.izofar.skulkinfestation.client.model.SkulkedCreeperModel;
-import net.izofar.skulkinfestation.client.model.SkulkedSkeletonModel;
-import net.izofar.skulkinfestation.client.model.SkulkedZombieModel;
-import net.izofar.skulkinfestation.client.renderer.SkulkedCreeperRenderer;
-import net.izofar.skulkinfestation.client.renderer.SkulkedSkeletonRenderer;
-import net.izofar.skulkinfestation.client.renderer.SkulkedZombieRenderer;
+import net.izofar.sculkinfestation.SkulkInfestation;
+import net.izofar.sculkinfestation.client.model.SkulkedCreeperModel;
+import net.izofar.sculkinfestation.client.model.SkulkedSkeletonModel;
+import net.izofar.sculkinfestation.client.model.SkulkedZombieModel;
+import net.izofar.sculkinfestation.client.renderer.SkulkedCreeperRenderer;
+import net.izofar.sculkinfestation.client.renderer.SkulkedSkeletonRenderer;
+import net.izofar.sculkinfestation.client.renderer.SkulkedZombieRenderer;
 import net.minecraft.client.render.entity.model.EntityModelLayer;
 import net.minecraft.util.Identifier;
 

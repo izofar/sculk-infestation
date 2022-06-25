@@ -1,6 +1,6 @@
-package net.izofar.skulkinfestation.mixin;
+package net.izofar.sculkinfestation.mixin;
 
-import net.izofar.skulkinfestation.entity.SkulkEntity;
+import net.izofar.sculkinfestation.entity.SkulkEntity;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.mob.WardenEntity;
 import org.spongepowered.asm.mixin.Mixin;

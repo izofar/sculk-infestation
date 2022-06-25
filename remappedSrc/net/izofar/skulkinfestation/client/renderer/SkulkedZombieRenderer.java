@@ -1,10 +1,10 @@
-package net.izofar.skulkinfestation.client.renderer;
+package net.izofar.sculkinfestation.client.renderer;
 
-import net.izofar.skulkinfestation.SkulkInfestation;
-import net.izofar.skulkinfestation.client.model.SkulkedZombieModel;
-import net.izofar.skulkinfestation.client.renderer.feature.SkulkFeatureRenderer;
-import net.izofar.skulkinfestation.entity.SkulkedZombie;
-import net.izofar.skulkinfestation.init.ModModelLayers;
+import net.izofar.sculkinfestation.SkulkInfestation;
+import net.izofar.sculkinfestation.client.model.SkulkedZombieModel;
+import net.izofar.sculkinfestation.client.renderer.feature.SkulkFeatureRenderer;
+import net.izofar.sculkinfestation.entity.SkulkedZombie;
+import net.izofar.sculkinfestation.init.ModModelLayers;
 import net.minecraft.client.render.entity.BipedEntityRenderer;
 import net.minecraft.client.render.entity.EntityRendererFactory;
 import net.minecraft.util.Identifier;

@@ -1,7 +1,7 @@
-package net.izofar.skulkinfestation.client.model;
+package net.izofar.sculkinfestation.client.model;
 
 import com.google.common.collect.ImmutableList;
-import net.izofar.skulkinfestation.entity.SkulkedCreeper;
+import net.izofar.sculkinfestation.entity.SkulkedCreeper;
 import net.minecraft.client.model.*;
 import net.minecraft.client.render.entity.model.EntityModelPartNames;
 import net.minecraft.client.render.entity.model.SinglePartEntityModel;

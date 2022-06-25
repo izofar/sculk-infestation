@@ -1,6 +1,6 @@
-package net.izofar.skulkinfestation.mixin;
+package net.izofar.sculkinfestation.mixin;
 
-import net.izofar.skulkinfestation.init.ModEntityTypes;
+import net.izofar.sculkinfestation.init.ModEntityTypes;
 import net.minecraft.entity.SpawnGroup;
 import net.minecraft.world.biome.OverworldBiomeCreator;
 import net.minecraft.world.biome.SpawnSettings;

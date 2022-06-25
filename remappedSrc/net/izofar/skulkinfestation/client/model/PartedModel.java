@@ -1,4 +1,4 @@
-package net.izofar.skulkinfestation.client.model;
+package net.izofar.sculkinfestation.client.model;
 
 import net.minecraft.client.model.ModelPart;
 
