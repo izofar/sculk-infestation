@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Sculk Infestation
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Changelog
+* Added the Sculked Zombie, a stronger variant of the zombie that drops sculked flesh--- a powerful, but risky, food source
+* Added the Sculked Creeper, a quicker variant of the creeper that drops sculked gunpowder--- used to craft a new TnT variant with stronger explosive capability
+* Added the Sculked Skeleton, a stronger variant of the skeleton that drops sculked bones--- used to fertilize crops at a much faster rate
