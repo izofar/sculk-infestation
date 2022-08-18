@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bonemeal",
+  "ingredients": [
+    {
+      "item": "sculkinfestation:sculked_bone"
+    }
+  ],
+  "result": {
+    "item": "sculkinfestation:sculked_bone_meal",
+    "count": 3
+  }
+}
